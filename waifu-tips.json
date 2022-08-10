@@ -3,8 +3,11 @@
 		{
 			"selector": "#live2d",
 			"text": [
-				"你好啊",
-				"GitHub！我是新手！"
+				"侬好",
+				"Hello",
+				"こんにちは",
+				"Hi",
+				"Good morning, and in case I don't see you, good afternoon, good evening, and good night!"
 			]
 		},
 		{
@@ -17,6 +20,7 @@
 		{
 			"selector": "#waifu-tool .fa-paper-plane",
 			"text": [
+				"Wanna Play a Game？",
 				"要不要来玩飞机大战？",
 				"这个按钮上写着「不要点击」。",
 				"怎么，你想来和我玩个游戏？",
