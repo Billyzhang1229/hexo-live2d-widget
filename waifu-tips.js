@@ -158,11 +158,6 @@ function loadWidget(config) {
 	(function initModel() {
 		let modelId = 2,
 			modelTexturesId = 0;
-		if (modelId === null) {
-			// 首次访问加载 指定模型 的 指定材质
-			modelId = 2; // 模型 ID
-			modelTexturesId = 0; // 材质 ID
-		}
 		loadModel(modelId, modelTexturesId);
 		fetch(waifuPath)
 			.then(response => response.json())
